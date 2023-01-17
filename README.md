@@ -1,9 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/glowing)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/glowing?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/glowing?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithPrinshu Kumar/glowing)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithPrinshuKumar/glowing?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithPrinshuKumar/glowing?style=social)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithPrinshu Kumar?style=social)](https://twitter.com/intent/follow?screen_name=codewithPrinshu Kumar)
   [![YouTube Video Views](https://img.shields.io/youtube/views/AMI-6F7CSFc?style=social)](https://youtu.be/AMI-6F7CSFc)
 
   <br />
@@ -36,18 +36,18 @@ To run **Glowing** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/glowing.git
+sudo git clone https://github.com/codewithPrinshuCoder/glowing.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/glowing.git
+git clone https://github.com/codewithsPrinshuCoder/glowing.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/kumarprinshu2).
 
 ### License
 
