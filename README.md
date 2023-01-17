@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithPrinshu Kumar/glowing)
+  ![GitHub repo size](https://https://github.com/Prinshukumarcoder/E-commerce-website)
   ![GitHub stars](https://img.shields.io/github/stars/codewithPrinshuKumar/glowing?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/codewithPrinshuKumar/glowing?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/codewithPrinshu Kumar?style=social)](https://twitter.com/intent/follow?screen_name=codewithPrinshu Kumar)
@@ -13,7 +13,7 @@
 
   Glowing is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/glowing/"><strong>➥ Live Demo</strong></a>
+  <a href="https://github.com/Prinshukumarcoder/E-commerce-website><strong>➥ Live Demo</strong></a>
 
 </div>
 
